@@ -10,16 +10,16 @@ titles.csv – Contains details about the titles, such as genre, release year, r
 credits.csv – Contains information about the cast and crew, including actors and directors associated with each title.
 
 ## Project Objectives
-Analyze the distribution of Movies and TV Shows on Amazon Prime Video.
-Study content growth and trends over the years.
-Identify the most common genres and categories.
-Explore content ratings and certifications.
-Examine content production by country.
-Analyze movie durations and TV show seasons.
-Identify the highest-rated titles using IMDb and TMDb ratings.
-Discover the most frequently featured actors and directors.
-Explore the relationship between ratings, popularity, and runtime.
-Assess the overall diversity of the Amazon Prime Video content library.
+* Analyze the distribution of Movies and TV Shows on Amazon Prime Video.
+* Study content growth and trends over the years.
+* Identify the most common genres and categories.
+* Explore content ratings and certifications.
+* Examine content production by country.
+* Analyze movie durations and TV show seasons.
+* Identify the highest-rated titles using IMDb and TMDb ratings.
+* Discover the most frequently featured actors and directors.
+* Explore the relationship between ratings, popularity, and runtime.
+* Assess the overall diversity of the Amazon Prime Video content library.
 
 ## Key Insights
 Amazon Prime Video's library is dominated by Movies, with fewer TV Shows.
